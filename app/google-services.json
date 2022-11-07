@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297993236192",
+    "project_id": "bt10-ketnoifirebase",
+    "storage_bucket": "bt10-ketnoifirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297993236192:android:5785daf188262e078daa85",
+        "android_client_info": {
+          "package_name": "com.example.bt10_ketnoifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297993236192-h3himijkp4lk9qanccs50ehbi3nei8p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZks_jT3b27wL67AYAjw5A6QZf6sDpAXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297993236192-h3himijkp4lk9qanccs50ehbi3nei8p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
